@@ -14,6 +14,23 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
     }
+    
+    //IB-Actions
+    
+    @IBAction func numberClicked(_ sender: UIButton) {
+    
+    
+    }
+    
+    @IBAction func operatorClicked(_ sender: UIButton) {
+        
+        
+    }
+    
+    @IBAction func equalsClicked(_ sender: UIButton) {
+        
+        
+    }
 
 }
 
