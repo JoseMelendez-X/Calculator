@@ -228,6 +228,9 @@
                             <constraint firstItem="ozz-an-XLI" firstAttribute="top" secondItem="Maz-ku-SvX" secondAttribute="bottom" constant="37.5" id="eFM-0Z-aXo"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="resultLabel" destination="Maz-ku-SvX" id="ZgZ-Tw-yUF"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
